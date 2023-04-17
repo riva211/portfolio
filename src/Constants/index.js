@@ -210,7 +210,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/riva211/realestate.github.io",
       source_deploy_link: "https://rivasrealestate.netlify.app ",
     },
     {
@@ -232,7 +232,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/riva211?tab=repositories",
       source_deploy_link: "https://rivastodolist.netlify.app",
 
     },
@@ -255,7 +255,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/riva211?tab=repositories",
       source_deploy_link: "https://gregarious-sorbet-33fff8.netlify.app/",
 
     },
